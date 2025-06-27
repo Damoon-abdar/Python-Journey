@@ -1,5 +1,6 @@
 import math
 import time
+##By Damoon Abdar Esfahani (DA)
 print("Welcome to Quadratics solver!, you have to enter 3 co-efficients: a, b, and c")
 time.sleep(1)
 print("In your quadratic equation you will have 3 variables, (a,b,c), ill show you an example and tell you what the a, b, and c are)!")
